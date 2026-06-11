@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rayyanhussain1?tab=repositories](https://github.com/Rayyanhussain1?tab=repositories)
 
-- 📫 How to reach me **rayyanhussain709@gmail.com**
+- 📫 How to reach me **rayyanberlin01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
