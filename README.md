@@ -1,25 +1,23 @@
 <h1 align="center">Hi 👋, I'm Rayyan</h1>
-<h3 align="center">An aspiring Machine Learning Explorer</h3>
+<h3 align="center">Turning Data into Insights and Models</h3>
 
 <img align="center"  src="https://www.lambdatest.com/resources/images/news24.gif" />
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayyanhussain1&label=Profile%20views&color=0e75b6&style=flat" alt="rayyanhussain1" /> </p> -->
 
-- 🔭 I’m currently working on **Machine Learning**
+- 📊 Interested in turning data into actionable insights
 
-- 🌱 I’m currently learning **Tensorflow**
+- 📈 Exploring the intersection of Data, AI, and Machine Learning
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects | Graphic Designing | UI\UX Designing**
+- 🔍 Passionate about solving real-world problems using data
+
+- 📉 Learning how to extract meaningful insights from complex datasets
+
+- 🚀 Building projects that combine Machine Learning and data-driven solutions
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rayyanhussain1?tab=repositories](https://github.com/Rayyanhussain1?tab=repositories)
 
-- 📝 I regularly write articles on [https://www.instagram.com/_rayyan._.hussain/](https://www.instagram.com/_rayyan._.hussain/)
-
-- 💬 Ask me about **Machine Learning | Graphic Designing**
-
 - 📫 How to reach me **rayyanhussain709@gmail.com**
-
-- ⚡ Fun fact **I am an introvert 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
